@@ -1,2 +1,3 @@
 # python-challenge
-Repo for data bootcamp module 3 assignment
+Created Python script to analyze financial records for profits and losses of a company
+Created Python script to count votes for small, rural town election
